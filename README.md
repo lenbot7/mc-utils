@@ -1,6 +1,6 @@
 # MC Utils
 Collection of helpful Minecraft utilities for players, builders and developers.
-
+<span style="color:red">WARNING! This project is currently in beta. Expect bugs.</span>
 ## ✨ The Mission
 TODO
 
